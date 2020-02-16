@@ -1,3 +1,10 @@
+data/microdados/*
+data/censo-escolar/*
+data/planilhas-diversas/*
+data/saeb_sp.csv
+data/mapa_brasil.rds
+data/TX_APROVAÇÃO E ABANDONO_2017.xlsx
+
 # History files
 .Rhistory
 .Rapp.history

@@ -1,0 +1,31 @@
+variavel;legenda
+var_perc_transf10_evolucao;Evolução IDEB - 10%
+var_perc_transf10_evolucao_e_nota;Evolução IDEB + Nota IDEB - 10%
+var_perc_transf10_evolucao_e_nota_X_log_matriculas_municipal;Evolução + Nota, pond. pelo log. do núm. de matrículas (rede municipal) - 10%
+var_perc_transf10_evolucao_e_nota_X_log_matriculas_publica;Evolução + Nota, pond. pelo log. do núm. de matrículas (rede pública) - 10%
+var_perc_transf10_evolucao_e_nota_X_matriculas_municipal;Evolução + Nota, pond. pelo número de matrículas (rede municipal) - 10%
+var_perc_transf10_evolucao_e_nota_X_matriculas_publica;Evolução + Nota, pond. pelo número de matrículas (rede pública) - 10%
+var_perc_transf10_evolucao_X_log_matriculas_municipal;Evolução IDEB pond. pelo log. do núm. de matrículas (rede municipal) - 10%
+var_perc_transf10_evolucao_X_log_matriculas_publica;Evolução IDEB pond. pelo log. do núm. de matrículas (rede pública) - 10%
+var_perc_transf10_evolucao_X_matriculas_municipal;Evolução IDEB pond. pelo núm. de matrículas (rede municipal) - 10%
+var_perc_transf10_evolucao_X_matriculas_publica;Evolução IDEB pond. pelo núm. de matrículas (rede pública) - 10%
+var_perc_transf10_nota;Nota IDEB - 10%
+var_perc_transf10_nota_X_log_matriculas_municipal;Nota IDEB pond. pelo log. do núm. de matrículas (rede municipal) - 10%
+var_perc_transf10_nota_X_log_matriculas_publica;Nota IDEB pond. pelo log. do núm. de matrículas (rede pública) - 10%
+var_perc_transf10_nota_X_matriculas_municipal;Nota IDEB pond. pelo núm. de matrículas (rede municipal) - 10%
+var_perc_transf10_nota_X_matriculas_publica;Nota IDEB pond. pelo núm. de matrículas (rede pública) - 10%
+var_perc_transf25_evolucao;Evolução IDEB - 25%
+var_perc_transf25_evolucao_e_nota;Evolução IDEB + Nota IDEB - 25%
+var_perc_transf25_evolucao_e_nota_X_log_matriculas_municipal;Evolução + Nota, pond. pelo log. do núm. de matrículas (rede municipal) - 25%
+var_perc_transf25_evolucao_e_nota_X_log_matriculas_publica;Evolução + Nota, pond. pelo log. do núm. de matrículas (rede pública) - 25%
+var_perc_transf25_evolucao_e_nota_X_matriculas_municipal;Evolução + Nota, pond. pelo número de matrículas (rede municipal) - 25%
+var_perc_transf25_evolucao_e_nota_X_matriculas_publica;Evolução + Nota, pond. pelo número de matrículas (rede pública) - 25%
+var_perc_transf25_evolucao_X_log_matriculas_municipal;Evolução IDEB pond. pelo log. do núm. de matrículas (rede municipal) - 25%
+var_perc_transf25_evolucao_X_log_matriculas_publica;Evolução IDEB pond. pelo log. do núm. de matrículas (rede pública) - 25%
+var_perc_transf25_evolucao_X_matriculas_municipal;Evolução IDEB pond. pelo núm. de matrículas (rede municipal) - 25%
+var_perc_transf25_evolucao_X_matriculas_publica;Evolução IDEB pond. pelo núm. de matrículas (rede pública) - 25%
+var_perc_transf25_nota;Nota IDEB - 25%
+var_perc_transf25_nota_X_log_matriculas_municipal;Nota IDEB pond. pelo log. do núm. de matrículas (rede municipal) - 25%
+var_perc_transf25_nota_X_log_matriculas_publica;Nota IDEB pond. pelo log. do núm. de matrículas (rede pública) - 25%
+var_perc_transf25_nota_X_matriculas_municipal;Nota IDEB pond. pelo núm. de matrículas (rede municipal) - 25%
+var_perc_transf25_nota_X_matriculas_publica;Nota IDEB pond. pelo núm. de matrículas (rede pública) - 25%
